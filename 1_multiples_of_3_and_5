@@ -1,0 +1,7 @@
+result = 0
+for x in range(1000):
+	a=x%3
+	b=x%5
+	if a == 0 or b == 0:
+		result += x
+print(result)
