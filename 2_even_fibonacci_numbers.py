@@ -1,5 +1,5 @@
 #Considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
-#The A«answer should be 4613732
+#The answer should be 4613732
 
 fib1 = 1
 fib2 = 1
