@@ -1,7 +1,8 @@
 #Considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+#The A«answer should be 4613732
 
-fibo1 = 1
-fibo2 = 1
+fib1 = 1
+fib2 = 1
 summ=0
 result=0
 while result < 4000000:
